@@ -1,4 +1,4 @@
-调用地址:http://xxx.com/acgurl.php 调用参数:return = json / jsonpro / img 
+调用地址:https://acgurl.xiaolfeng.top/acg.php 调用参数:return = json / jsonpro / img 
 
 * json：返回一条标准json数据(图片地址) 
 * jsonpro：返回十条标准json数据(图片地址) 
